@@ -8,7 +8,7 @@ const Welcome = () => {
         <h2>Welcome to Chris' Barbershop</h2>
         <hr />
       </div>
-      <p>
+      <p className="welcome-description">
         Your destination for grooming excellence in the heart of Marlborough.
       </p>
       <div className="welcome-detail-section">
