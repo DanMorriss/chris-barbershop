@@ -1,0 +1,10 @@
+.welcome-container {
+  padding: 10px;
+  background-color: #f7f7f7;
+}
+
+.welcome-title-container {
+  width:fit-content;
+  margin: 0 auto;
+  text-align: center;
+}
